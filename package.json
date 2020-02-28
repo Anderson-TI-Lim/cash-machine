@@ -1,0 +1,15 @@
+{
+  "name": "cash-machine",
+  "version": "1.0.0",
+  "description": "Simulador de caixa eletrônico",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dantz",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
