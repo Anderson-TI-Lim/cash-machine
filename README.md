@@ -1,4 +1,9 @@
-# cash-machine - Simulator
+# Cash-machine - Simulator
+
+Simples simulador de caixa eletônico feito em node.js
+
+Objetivo: **#Desafio**
+
 
  Para iniciar:
  
