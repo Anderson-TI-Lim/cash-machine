@@ -1,2 +1,9 @@
-# cash-machine
-Simulador de caixa eletronico
+# cash-machine - Simulator
+
+**Simples caixa eletônico feito em node.js**     
+*Objetivo: #Desafio*
+---
+
+ Para iniciar:
+ 
+  ```npm start```
