@@ -5,10 +5,11 @@
 
 ---
 
-Para instalar dependências:
+##### How to use:
 
-```npm install```
-
- Para iniciar:
+ ```npm install``` (to install the dependencies)  
+ ```npm start``` (to start the program)
  
-  ```npm start```
+ ---
+
+*Enter the values requested.*
