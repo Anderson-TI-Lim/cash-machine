@@ -8,7 +8,7 @@
     "start": "node ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Anderson-TI-Lim",
+  "author": "kanrinha",
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
